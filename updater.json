@@ -1,0 +1,8 @@
+{
+  "Translate": {
+    "minimumDiscordVersion": 101203,
+    "version": "1.2.6",
+    "build": "https://github.com/Handerfall/plugins/releases/download/translate/%s.zip",
+    "changelog": ""
+  }
+}
